@@ -8,7 +8,7 @@
 - 🚢**Docker** — containerization is the future!  
 - 📱**Kotlin** — excited about the future of Android development.  
 - 💾**Redis** — A database like no other.
-- 🧮**x86 Assembly** — for the fun of low level coding;
+- 🧮**x86 Assembly** — for the fun of low level coding!
 
 <!---
 Justin-Coulombe/Justin-Coulombe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
