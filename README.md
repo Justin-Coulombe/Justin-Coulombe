@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Justin-Coulombe ![my Codewars profile : https://www.codewars.com/users/Justin-Coulombe](https://www.codewars.com/users/Justin-Coulombe/badges/micro)
+# 👋 Hi, I’m @Justin-Coulombe [![my Codewars profile](https://www.codewars.com/users/Justin-Coulombe/badges/micro)](https://www.codewars.com/users/Justin-Coulombe)
 - **Aviation enthusiast** ✈️ — always fascinated by the skies.
 - 🧑‍🎓**Student** who enjoys working with:  
   - ⌨️**Languages/Frameworks:** TypeScript, Node.js, React, ExpressJS, Bootstrap.  
